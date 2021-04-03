@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #d43c49;
   text-decoration: underline;
 }
 
@@ -3926,7 +3926,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #e63819;
+  background-color: #19e6ba;
 }
 
 .nav-fill > .nav-link,
@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #290606 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
